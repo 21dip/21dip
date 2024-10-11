@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @21dip
 - 👀 I’m interested in Front-end Developement/Web Development
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on Frontend projects which are build on HTML,CSS,Javascript ans Reactjs , Tailwind ,Bootstrap
+- 💞️ I’m looking to collaborate on Frontend projects which are build on HTML,CSS,Javascript ans Reactjs , Tailwind CSS ,Bootstrap
 - 📫 How to reach me drop me message or my linked in profile- linkedin.com/in/dipali-b-142537113
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
